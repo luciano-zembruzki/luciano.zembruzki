@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Eu sou o professor Luciano e aqui compartilhos os  meus repositórios</h2>
+<h2 align="left">Olá 👋! Eu sou o Professor Luciano e aqui compartilhos os  meus repositórios</h2>
 
 ###
 
