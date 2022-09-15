@@ -49,7 +49,7 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/professorlucianoz/professorlucianoz/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/professorlucianoz/professorlucianoz/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
 
